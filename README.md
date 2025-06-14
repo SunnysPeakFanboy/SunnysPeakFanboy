@@ -1,1 +1,2 @@
 <img src="https://cdn.discordapp.com/attachments/1169626689601540206/1383332882810011728/IMG_0761.jpeg?ex=684e68a4&is=684d1724&hm=17707d9a141e1a8f1632c7099de8d62dc2cd7f190e9289b1b2674a599f17e3e5&" alt="logo"  width="400" height="auto" />
+ ok whatev hi
