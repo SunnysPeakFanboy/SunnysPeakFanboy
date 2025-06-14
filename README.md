@@ -1,2 +1,2 @@
 <img src="https://cdn.discordapp.com/attachments/1169626689601540206/1383341330217959565/Untitled182_20250614150140.png?ex=684e7082&is=684d1f02&hm=bf3d997544cc89d9ae84e9c8e6a3a3ab4681324838d192c54203686a77a217f3&" alt="logo"  width="900" height="auto" />
-<img src="https://cdn.discordapp.com/attachments/1169626689601540206/1383342196580814979/Polish_20250526_235030474.png?ex=684e7150&is=684d1fd0&hm=52f7d06c006d73c74cfcfed3894a9b49db47581736cc151c92ec52b8ce4b3ebe&" alt="logo"  width="200" height="auto" />
+ <img src="https://cdn.discordapp.com/attachments/1169626689601540206/1383345870220689418/Polish_20250614_152212288.png?ex=684e74bc&is=684d233c&hm=04747623478ba9cae3c6d7ebb17286e580b4b55e025144cf9c7dbee344a8d9eb&" alt="logo"  width="120" height="auto" />
