@@ -1,3 +1,3 @@
 <img src="https://cdn.discordapp.com/attachments/1169626689601540206/1383341330217959565/Untitled182_20250614150140.png?ex=686cc302&is=686b7182&hm=b298929ae15eb9f263d28731b256faae3a4245535964b337aff95d644817d265&" alt="logo"  width="900" height="auto" />
-<img src="https://cdn.discordapp.com/attachments/1169626689601540206/1383358403597963404/Untitled182_20250614155957.png?ex=686cd2e8&is=686b8168&hm=4edd92fcda3913fbdb419728f969f4a5a478f749836978b4b5527f0ba66a9d89&" alt="logo"  width="800" height="auto" />
-<img src="https://cdn.discordapp.com/attachments/1169626689601540206/1383358402998046781/Untitled182_20250614161102.png?ex=686cd2e8&is=686b8168&hm=586cac2e8bca31c2746be9308bc51f75168966ce8ff5a2e9c4ed70dcdbbf837f&" alt="logo"  width="800" height="auto" />
+
+<p align="right"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7F7F7&width=500&lines=Has+been+the+treasure+of+my+life." alt="Typing SVG" /></a></p>
