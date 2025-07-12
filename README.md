@@ -1,3 +1,6 @@
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Ovrpheus&label=people+Ive+pulled:&color=e1cac2&style=plastic)
 <img src="https://files.catbox.moe/zkhgbn.png" alt="logo"  width="900" height="auto" />
 
 <p align="middle"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=707070&multiline=true&width=435&lines=Has+been+the+treasure+of+my+life." alt="Typing SVG" /></a></p>
